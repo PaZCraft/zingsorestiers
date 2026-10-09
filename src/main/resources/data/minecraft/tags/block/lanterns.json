@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:iron_lantern",
+    "zings_ores_and_tiers:netherite_lantern",
+    "zings_ores_and_tiers:resin_lantern",
+    "zings_ores_and_tiers:golden_lantern",
+    "zings_ores_and_tiers:warped_netherite_lantern",
+    "zings_ores_and_tiers:crimson_netherite_lantern"
+  ]
+}

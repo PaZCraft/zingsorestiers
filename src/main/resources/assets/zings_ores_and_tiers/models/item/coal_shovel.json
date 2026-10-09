@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "zings_ores_and_tiers:item/coal_shovel"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emerald_boots",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:emerald"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:emerald_armor_boots",
+    "count": 1
+  }
+}

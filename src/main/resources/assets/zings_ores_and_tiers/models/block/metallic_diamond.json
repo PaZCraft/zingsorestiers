@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zings_ores_and_tiers:block/metallic_diamond",
+    "up": "zings_ores_and_tiers:block/metallic_diamond",
+    "north": "zings_ores_and_tiers:block/metallic_diamond",
+    "east": "zings_ores_and_tiers:block/metallic_diamond",
+    "south": "zings_ores_and_tiers:block/metallic_diamond",
+    "west": "zings_ores_and_tiers:block/metallic_diamond",
+    "particle": "zings_ores_and_tiers:block/metallic_diamond"
+  }
+}

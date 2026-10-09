@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "golden_bulb",
+  "category": "redstone",
+  "pattern": [
+    " a ",
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": "minecraft:gold_block",
+    "b": "minecraft:blaze_rod",
+    "c": "minecraft:redstone"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:golden_bulb",
+    "count": 4
+  }
+}

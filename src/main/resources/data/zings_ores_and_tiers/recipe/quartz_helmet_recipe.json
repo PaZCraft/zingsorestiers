@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "quartz_helmet",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:quartz"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:quartz_armor_helmet",
+    "count": 1
+  }
+}

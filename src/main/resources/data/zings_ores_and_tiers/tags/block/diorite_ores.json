@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:diorite_quartz_ore",
+    "zings_ores_and_tiers:diorite_resin_ore",
+    "zings_ores_and_tiers:diorite_coal_ore",
+    "zings_ores_and_tiers:diorite_copper_ore",
+    "zings_ores_and_tiers:diorite_diamond_ore",
+    "zings_ores_and_tiers:diorite_emerald_ore",
+    "zings_ores_and_tiers:diorite_redstone_ore",
+    "zings_ores_and_tiers:diorite_lapis_lazuli_ore",
+    "zings_ores_and_tiers:diorite_gold_ore",
+    "zings_ores_and_tiers:diorite_amethyst_ore",
+    "zings_ores_and_tiers:diorite_iron_ore"
+  ]
+}

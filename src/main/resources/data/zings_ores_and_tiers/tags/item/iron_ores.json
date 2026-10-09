@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:sandstone_iron_ore",
+    "zings_ores_and_tiers:andesite_iron_ore",
+    "minecraft:iron_ore",
+    "zings_ores_and_tiers:granite_iron_ore",
+    "minecraft:deepslate_iron_ore",
+    "zings_ores_and_tiers:tuff_iron_ore",
+    "zings_ores_and_tiers:diorite_iron_ore"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "coal_pickaxe",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": "minecraft:wooden_pickaxe",
+  "result": {
+    "id": "zings_ores_and_tiers:coal_pickaxe"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "quartz_chestplate",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:quartz"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:quartz_armor_chestplate",
+    "count": 1
+  }
+}

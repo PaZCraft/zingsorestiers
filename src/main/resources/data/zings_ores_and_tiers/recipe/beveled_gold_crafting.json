@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "beveled",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:hex_gold"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:beveled_gold",
+    "count": 1
+  }
+}

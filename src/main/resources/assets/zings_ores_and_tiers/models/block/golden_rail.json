@@ -1,0 +1,8 @@
+{
+  "parent": "zings_ores_and_tiers:custom/flat_model",
+  "textures": {
+    "all": "zings_ores_and_tiers:block/golden_rail",
+    "particle": "zings_ores_and_tiers:block/golden_rail",
+    "0": "zings_ores_and_tiers:block/golden_rail"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "campfire",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": "minecraft:stick",
+    "b": "minecraft:copper_ingot",
+    "c": "#minecraft:planks"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:copper_campfire",
+    "count": 1
+  }
+}

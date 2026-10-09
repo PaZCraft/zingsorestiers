@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:granite_redstone_ore",
+    "zings_ores_and_tiers:granite_diamond_ore",
+    "zings_ores_and_tiers:granite_lapis_lazuli_ore",
+    "zings_ores_and_tiers:granite_emerald_ore",
+    "zings_ores_and_tiers:granite_quartz_ore",
+    "zings_ores_and_tiers:granite_amethyst_ore",
+    "zings_ores_and_tiers:granite_copper_ore",
+    "zings_ores_and_tiers:granite_gold_ore",
+    "zings_ores_and_tiers:granite_iron_ore",
+    "zings_ores_and_tiers:granite_resin_ore",
+    "zings_ores_and_tiers:granite_coal_ore"
+  ]
+}

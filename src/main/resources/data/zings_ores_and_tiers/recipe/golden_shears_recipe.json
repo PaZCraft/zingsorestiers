@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "golden_shears",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "a "
+  ],
+  "key": {
+    "a": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:golden_shears",
+    "count": 1
+  }
+}

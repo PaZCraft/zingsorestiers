@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "golden_scrap",
+  "category": "misc",
+  "experience": 2,
+  "cookingtime": 200,
+  "ingredient": "minecraft:raw_gold_block",
+  "result": {
+    "id": "zings_ores_and_tiers:golden_scrap"
+  }
+}

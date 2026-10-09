@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:amethyst_sword",
+    "zings_ores_and_tiers:resin_sword",
+    "zings_ores_and_tiers:lapis_lazuli_sword",
+    "zings_ores_and_tiers:emerald_sword",
+    "zings_ores_and_tiers:quartz_sword",
+    "zings_ores_and_tiers:prismarine_sword",
+    "zings_ores_and_tiers:redstone_sword"
+  ]
+}

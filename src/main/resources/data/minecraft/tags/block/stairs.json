@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:cut_netherite_stairs",
+    "zings_ores_and_tiers:coal_stairs",
+    "zings_ores_and_tiers:emerald_stairs"
+  ]
+}

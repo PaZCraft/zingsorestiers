@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:lapis_ore",
+    "zings_ores_and_tiers:granite_lapis_lazuli_ore",
+    "zings_ores_and_tiers:tuff_lapis_lazuli_ore",
+    "zings_ores_and_tiers:sandstone_lapis_lazuli_ore",
+    "zings_ores_and_tiers:andesite_lapis_lazuli_ore",
+    "minecraft:deepslate_lapis_ore",
+    "zings_ores_and_tiers:diorite_lapis_lazuli_ore"
+  ]
+}

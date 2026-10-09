@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:coal_armor_helmet",
+    "zings_ores_and_tiers:coal_armor_boots",
+    "zings_ores_and_tiers:coal_armor_leggings",
+    "zings_ores_and_tiers:coal_armor_chestplate"
+  ]
+}

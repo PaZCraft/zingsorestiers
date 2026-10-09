@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "particle": "zings_ores_and_tiers:block/netherite_bars",
+    "pane": "zings_ores_and_tiers:block/netherite_bars",
+    "edge": "zings_ores_and_tiers:block/netherite_bars"
+  }
+}

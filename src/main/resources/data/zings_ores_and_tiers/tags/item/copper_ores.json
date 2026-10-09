@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:andesite_copper_ore",
+    "zings_ores_and_tiers:granite_copper_ore",
+    "zings_ores_and_tiers:diorite_copper_ore",
+    "minecraft:deepslate_copper_ore",
+    "zings_ores_and_tiers:tuff_copper_ore",
+    "zings_ores_and_tiers:dripstone_copper_ore",
+    "minecraft:copper_ore"
+  ]
+}

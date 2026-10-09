@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "zings_ores_and_tiers:block/granite_coal_ore",
+    "particle": "zings_ores_and_tiers:block/granite_coal_ore"
+  }
+}

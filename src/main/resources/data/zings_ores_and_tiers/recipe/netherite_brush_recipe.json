@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "netherite_brush",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": "minecraft:feather",
+    "b": "minecraft:netherite_ingot",
+    "c": "minecraft:stick"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:netherite_brush",
+    "count": 1
+  }
+}

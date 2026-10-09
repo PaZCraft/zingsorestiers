@@ -1,0 +1,34 @@
+{
+  "display": {
+    "background": "zings_ores_and_tiers:screens/ores_tiers_icon",
+    "icon": {
+      "id": "zings_ores_and_tiers:zing_book_volume_six"
+    },
+    "title": {
+      "translate": "advancements.zings_ores_and_tiers.title"
+    },
+    "description": {
+      "translate": "advancements.zings_ores_and_tiers.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "zings_ores_and_tiers_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "zings_ores_and_tiers:zing_book_volume_six",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  }
+}

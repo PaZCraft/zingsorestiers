@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "prismarine_shard",
+  "category": "misc",
+  "experience": 1.5,
+  "cookingtime": 200,
+  "ingredient": "#zings_ores_and_tiers:prismarine_ores",
+  "result": {
+    "id": "minecraft:prismarine_shard"
+  }
+}

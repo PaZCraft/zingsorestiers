@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "zings_ores_and_tiers:block/netherite_torch",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "zings_ores_and_tiers:block/netherite_torch"
+    },
+    "axis=z": {
+      "model": "zings_ores_and_tiers:block/netherite_torch",
+      "x": 90
+    }
+  }
+}

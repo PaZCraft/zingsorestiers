@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cut",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:bolted_iron"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:cut_iron",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hex",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:beveled_iron"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:hex_iron",
+    "count": 9
+  }
+}

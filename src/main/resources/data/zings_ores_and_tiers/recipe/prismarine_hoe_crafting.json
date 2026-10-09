@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "prismarine_hoe",
+  "category": "equipment",
+  "pattern": [
+    "aa",
+    " b",
+    " b"
+  ],
+  "key": {
+    "a": "minecraft:prismarine_shard",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:prismarine_hoe",
+    "count": 1
+  }
+}

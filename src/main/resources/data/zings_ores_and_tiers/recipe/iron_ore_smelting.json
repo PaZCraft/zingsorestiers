@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_ingot",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": "#zings_ores_and_tiers:iron_ores",
+  "result": {
+    "id": "minecraft:iron_ingot"
+  }
+}

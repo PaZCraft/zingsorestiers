@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zings_ores_and_tiers:block/glossy_netherite",
+    "up": "zings_ores_and_tiers:block/glossy_netherite",
+    "north": "zings_ores_and_tiers:block/glossy_netherite",
+    "east": "zings_ores_and_tiers:block/glossy_netherite",
+    "south": "zings_ores_and_tiers:block/glossy_netherite",
+    "west": "zings_ores_and_tiers:block/glossy_netherite",
+    "particle": "zings_ores_and_tiers:block/glossy_netherite"
+  }
+}

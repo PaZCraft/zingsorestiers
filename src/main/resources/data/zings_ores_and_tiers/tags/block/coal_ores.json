@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:deepslate_coal_ore",
+    "zings_ores_and_tiers:tuff_coal_ore",
+    "minecraft:coal_ore",
+    "zings_ores_and_tiers:diorite_coal_ore",
+    "zings_ores_and_tiers:dirt_coal_ore",
+    "zings_ores_and_tiers:sandstone_coal_ore",
+    "zings_ores_and_tiers:granite_coal_ore",
+    "zings_ores_and_tiers:andesite_coal_ore"
+  ]
+}

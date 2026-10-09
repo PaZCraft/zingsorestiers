@@ -1,0 +1,10 @@
+{
+  "parent": "zings_ores_and_tiers:custom/template_campfire",
+  "textures": {
+    "all": "zings_ores_and_tiers:block/campfire_fire_copper",
+    "particle": "zings_ores_and_tiers:block/campfire_fire_copper",
+    "lit_log": "zings_ores_and_tiers:block/campfire_lit_log_copper",
+    "log": "minecraft:block/campfire_log",
+    "fire": "zings_ores_and_tiers:block/campfire_fire_copper"
+  }
+}

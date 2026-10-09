@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "iron_brush",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": "minecraft:feather",
+    "b": "minecraft:iron_ingot",
+    "c": "minecraft:stick"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:iron_brush",
+    "count": 1
+  }
+}

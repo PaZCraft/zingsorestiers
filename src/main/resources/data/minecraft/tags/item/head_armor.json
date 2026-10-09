@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:quartz_armor_helmet",
+    "zings_ores_and_tiers:coal_armor_helmet",
+    "zings_ores_and_tiers:lapis_lazuli_armor_helmet",
+    "zings_ores_and_tiers:redstone_armor_helmet",
+    "zings_ores_and_tiers:emerald_armor_helmet",
+    "zings_ores_and_tiers:amethyst_armor_helmet",
+    "zings_ores_and_tiers:prismarine_helmet",
+    "zings_ores_and_tiers:resin_armor_helmet"
+  ]
+}

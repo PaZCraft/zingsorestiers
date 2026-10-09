@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_upgrade_smithing_template",
+  "base": "zings_ores_and_tiers:diamond_dandelion",
+  "addition": "minecraft:netherite_ingot",
+  "result": {
+    "id": "zings_ores_and_tiers:netherite_dandelion"
+  }
+}

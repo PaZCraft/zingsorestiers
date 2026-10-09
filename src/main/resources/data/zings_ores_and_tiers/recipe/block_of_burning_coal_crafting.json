@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "block_of_burning_coal",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:burning_coal"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:block_of_burning_coal",
+    "count": 1
+  }
+}

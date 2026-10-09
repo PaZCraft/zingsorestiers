@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zings_ores_and_tiers:block/tough_copper",
+    "up": "zings_ores_and_tiers:block/tough_copper",
+    "north": "zings_ores_and_tiers:block/tough_copper",
+    "east": "zings_ores_and_tiers:block/tough_copper",
+    "south": "zings_ores_and_tiers:block/tough_copper",
+    "west": "zings_ores_and_tiers:block/tough_copper",
+    "particle": "zings_ores_and_tiers:block/tough_copper"
+  }
+}

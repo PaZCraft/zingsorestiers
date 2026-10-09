@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:pale_moss_resin_ore",
+    "zings_ores_and_tiers:dirt_coal_ore",
+    "zings_ores_and_tiers:dirt_resin_ore",
+    "zings_ores_and_tiers:dirt_gold_ore"
+  ]
+}

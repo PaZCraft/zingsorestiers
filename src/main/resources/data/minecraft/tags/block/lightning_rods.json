@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:iron_lightning_rod",
+    "zings_ores_and_tiers:golden_lightning_rod",
+    "zings_ores_and_tiers:netherite_lightning_rod"
+  ]
+}

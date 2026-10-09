@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "zings_ores_and_tiers:block/clear_emerald",
+    "particle": "zings_ores_and_tiers:block/clear_emerald"
+  }
+}

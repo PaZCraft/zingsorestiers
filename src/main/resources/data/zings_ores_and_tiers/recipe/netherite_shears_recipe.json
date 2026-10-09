@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "netherite_shears",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "a "
+  ],
+  "key": {
+    "a": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:netherite_shears",
+    "count": 1
+  }
+}

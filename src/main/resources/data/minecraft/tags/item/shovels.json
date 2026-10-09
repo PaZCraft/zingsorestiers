@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:coal_shovel",
+    "zings_ores_and_tiers:prismarine_shovel",
+    "zings_ores_and_tiers:amethyst_shovel",
+    "zings_ores_and_tiers:resin_shovel",
+    "zings_ores_and_tiers:emerald_shovel",
+    "zings_ores_and_tiers:redstone_shovel",
+    "zings_ores_and_tiers:lapis_lazuli_shovel",
+    "zings_ores_and_tiers:quartz_shovel"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "gem",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:glossy_netherite"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:gem_netherite",
+    "count": 9
+  }
+}

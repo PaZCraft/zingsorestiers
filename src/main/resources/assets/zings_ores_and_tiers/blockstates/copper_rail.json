@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zings_ores_and_tiers:block/copper_rail"
+    },
+    "facing=east": {
+      "model": "zings_ores_and_tiers:block/copper_rail",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zings_ores_and_tiers:block/copper_rail",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zings_ores_and_tiers:block/copper_rail",
+      "y": 270
+    }
+  }
+}

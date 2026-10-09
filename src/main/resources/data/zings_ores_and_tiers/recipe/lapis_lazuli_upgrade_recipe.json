@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lapis_lazuli_upgrade",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:emerald",
+    "b": "zings_ores_and_tiers:lapis_lazuli_upgrade",
+    "c": "minecraft:lapis_block"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:lapis_lazuli_upgrade",
+    "count": 2
+  }
+}

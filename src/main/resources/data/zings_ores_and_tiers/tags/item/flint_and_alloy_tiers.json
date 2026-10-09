@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:flint_and_steel",
+    "zings_ores_and_tiers:flint_and_gold",
+    "zings_ores_and_tiers:flint_and_netherite",
+    "zings_ores_and_tiers:flint_and_copper"
+  ]
+}

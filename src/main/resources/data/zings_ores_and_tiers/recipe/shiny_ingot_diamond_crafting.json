@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shiny_ingot",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": "minecraft:gold_block",
+    "b": "minecraft:diamond_block"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:shiny_ingot_diamond",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:quartz_ore",
+    "minecraft:lapis_ore",
+    "minecraft:iron_ore",
+    "minecraft:coal_ore",
+    "minecraft:redstone_ore",
+    "minecraft:emerald_ore",
+    "zings_ores_and_tiers:resin_ore",
+    "minecraft:diamond_ore",
+    "minecraft:gold_ore",
+    "zings_ores_and_tiers:amethyst_ore",
+    "minecraft:copper_ore"
+  ]
+}

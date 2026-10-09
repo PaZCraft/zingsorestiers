@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:copper_rail",
+    "zings_ores_and_tiers:netherite_rail",
+    "zings_ores_and_tiers:golden_rail"
+  ]
+}

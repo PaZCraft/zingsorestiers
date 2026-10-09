@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:prismarine_pickaxe",
+    "zings_ores_and_tiers:coal_pickaxe",
+    "zings_ores_and_tiers:netherite_brush",
+    "zings_ores_and_tiers:redstone_pickaxe",
+    "zings_ores_and_tiers:amethyst_pickaxe",
+    "zings_ores_and_tiers:resin_pickaxe",
+    "zings_ores_and_tiers:quartz_pickaxe",
+    "zings_ores_and_tiers:golden_brush",
+    "zings_ores_and_tiers:lapis_lazuli_pickaxe",
+    "zings_ores_and_tiers:iron_brush",
+    "zings_ores_and_tiers:emerald_pickaxe"
+  ]
+}

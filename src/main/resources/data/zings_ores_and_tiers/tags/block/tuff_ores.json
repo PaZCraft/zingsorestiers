@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:tuff_resin_ore",
+    "zings_ores_and_tiers:tuff_lapis_lazuli_ore",
+    "zings_ores_and_tiers:tuff_coal_ore",
+    "zings_ores_and_tiers:tuff_redstone_ore",
+    "zings_ores_and_tiers:tuff_quartz_ore",
+    "zings_ores_and_tiers:tuff_emerald_ore",
+    "zings_ores_and_tiers:tuff_diamond_ore",
+    "zings_ores_and_tiers:tuff_gold_ore",
+    "zings_ores_and_tiers:tuff_amethyst_ore",
+    "zings_ores_and_tiers:tuff_copper_ore",
+    "zings_ores_and_tiers:tuff_iron_ore"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "black_dye",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:netherite_dandelion"
+  },
+  "result": {
+    "id": "minecraft:black_dye",
+    "count": 1
+  }
+}

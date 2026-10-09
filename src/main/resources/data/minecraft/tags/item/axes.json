@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:prismarine_axe",
+    "zings_ores_and_tiers:lapis_lazuli_axe",
+    "zings_ores_and_tiers:quartz_axe",
+    "zings_ores_and_tiers:amethyst_axe",
+    "zings_ores_and_tiers:resin_axe",
+    "zings_ores_and_tiers:emerald_axe",
+    "zings_ores_and_tiers:redstone_axe"
+  ]
+}

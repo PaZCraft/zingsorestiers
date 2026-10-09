@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "zings_ores_and_tiers:block/copper_dandelion",
+    "particle": "zings_ores_and_tiers:block/copper_dandelion"
+  }
+}

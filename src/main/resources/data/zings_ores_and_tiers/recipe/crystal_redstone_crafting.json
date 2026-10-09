@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crystal",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:clear_redstone"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:crystal_redstone",
+    "count": 9
+  }
+}

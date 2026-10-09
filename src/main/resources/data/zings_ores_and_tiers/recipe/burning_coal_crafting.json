@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "burning_coal",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:magma_cream",
+    "b": "minecraft:charcoal"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:burning_coal",
+    "count": 1
+  }
+}

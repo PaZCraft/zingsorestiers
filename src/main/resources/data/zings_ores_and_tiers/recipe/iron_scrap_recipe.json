@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_scrap",
+  "category": "misc",
+  "experience": 2,
+  "cookingtime": 200,
+  "ingredient": "minecraft:raw_iron_block",
+  "result": {
+    "id": "zings_ores_and_tiers:iron_scrap"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hue",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:glass_iron"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:hue_iron",
+    "count": 1
+  }
+}

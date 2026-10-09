@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "prismarine_leggings",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:prismarine_shard"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:prismarine_leggings",
+    "count": 1
+  }
+}

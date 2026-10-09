@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "redstone_upgrade",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "zings_ores_and_tiers:redstone_upgrade",
+    "c": "minecraft:redstone_block"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:redstone_upgrade",
+    "count": 2
+  }
+}

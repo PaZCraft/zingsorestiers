@@ -1,0 +1,65 @@
+{
+  "item.armor.equip_redstone": {
+    "subtitle": "subtitles.item.armor.equip_redstone",
+    "sounds": [
+      {
+        "name": "zings_ores_and_tiers:equip_redstone",
+        "stream": false
+      }
+    ]
+  },
+  "item.armor.equip_quartz": {
+    "subtitle": "subtitles.item.armor.equip_quartz",
+    "sounds": [
+      {
+        "name": "zings_ores_and_tiers:equip_quartz",
+        "stream": false
+      }
+    ]
+  },
+  "item.armor.equip_emerald": {
+    "subtitle": "subtitles.item.armor.equip_emerald",
+    "sounds": [
+      {
+        "name": "zings_ores_and_tiers:equip_emerald",
+        "stream": false
+      }
+    ]
+  },
+  "item.armor.equip_lapis_lazuli": {
+    "subtitle": "subtitles.item.armor.equip_lapis_lazuli",
+    "sounds": [
+      {
+        "name": "zings_ores_and_tiers:equip_lapis_lazuli",
+        "stream": false
+      }
+    ]
+  },
+  "item.armor.equip_resin": {
+    "subtitle": "subtitles.item.armor.equip_resin",
+    "sounds": [
+      {
+        "name": "zings_ores_and_tiers:equip_resin",
+        "stream": false
+      }
+    ]
+  },
+  "item.armor.equip_amethyst": {
+    "subtitle": "subtitles.item.armor.equip_amethyst",
+    "sounds": [
+      {
+        "name": "zings_ores_and_tiers:equip_amethyst",
+        "stream": false
+      }
+    ]
+  },
+  "item.armor.equip_coal": {
+    "subtitle": "subtitles.item.armor.equip_coal",
+    "sounds": [
+      {
+        "name": "zings_ores_and_tiers:equip_coal",
+        "stream": false
+      }
+    ]
+  }
+}

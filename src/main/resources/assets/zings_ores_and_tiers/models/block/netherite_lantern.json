@@ -1,0 +1,8 @@
+{
+  "parent": "zings_ores_and_tiers:custom/vanilla_lantern_model",
+  "textures": {
+    "all": "zings_ores_and_tiers:block/netherite_lantern",
+    "particle": "zings_ores_and_tiers:block/netherite_lantern",
+    "0": "zings_ores_and_tiers:block/netherite_lantern"
+  }
+}

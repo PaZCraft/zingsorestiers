@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "iron_dandelion",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:iron_nugget",
+    "b": "minecraft:dandelion"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:iron_dandelion",
+    "count": 1
+  }
+}

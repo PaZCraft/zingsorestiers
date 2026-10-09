@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "minecraft:block/emerald_block",
+    "bottom": "minecraft:block/emerald_block",
+    "top": "minecraft:block/emerald_block",
+    "side": "minecraft:block/emerald_block"
+  }
+}

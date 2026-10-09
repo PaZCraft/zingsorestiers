@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "iron_bulb",
+  "category": "redstone",
+  "pattern": [
+    " a ",
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": "minecraft:iron_block",
+    "b": "minecraft:blaze_rod",
+    "c": "minecraft:redstone"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:iron_bulb",
+    "count": 4
+  }
+}

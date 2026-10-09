@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zings_ores_and_tiers:block/speckled_redstone",
+    "up": "zings_ores_and_tiers:block/speckled_redstone",
+    "north": "zings_ores_and_tiers:block/speckled_redstone",
+    "east": "zings_ores_and_tiers:block/speckled_redstone",
+    "south": "zings_ores_and_tiers:block/speckled_redstone",
+    "west": "zings_ores_and_tiers:block/speckled_redstone",
+    "particle": "zings_ores_and_tiers:block/speckled_redstone"
+  }
+}

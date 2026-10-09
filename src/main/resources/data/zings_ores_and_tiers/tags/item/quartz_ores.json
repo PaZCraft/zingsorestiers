@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:quartz_ore",
+    "zings_ores_and_tiers:diorite_quartz_ore",
+    "zings_ores_and_tiers:granite_quartz_ore",
+    "zings_ores_and_tiers:basalt_quartz_ore",
+    "zings_ores_and_tiers:tuff_quartz_ore",
+    "minecraft:nether_quartz_ore",
+    "zings_ores_and_tiers:andesite_quartz_ore",
+    "zings_ores_and_tiers:deepslate_quartz_ore"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zings_ores_and_tiers:block/clumped_copper",
+    "up": "zings_ores_and_tiers:block/clumped_copper",
+    "north": "zings_ores_and_tiers:block/clumped_copper",
+    "east": "zings_ores_and_tiers:block/clumped_copper",
+    "south": "zings_ores_and_tiers:block/clumped_copper",
+    "west": "zings_ores_and_tiers:block/clumped_copper",
+    "particle": "zings_ores_and_tiers:block/clumped_copper"
+  }
+}

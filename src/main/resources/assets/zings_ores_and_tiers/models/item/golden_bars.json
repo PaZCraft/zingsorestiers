@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "zings_ores_and_tiers:block/golden_bars"
+  },
+  "render_type": "cutout_mipped"
+}

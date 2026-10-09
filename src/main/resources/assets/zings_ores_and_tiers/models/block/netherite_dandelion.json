@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "zings_ores_and_tiers:block/netherite_dandelion",
+    "particle": "zings_ores_and_tiers:block/netherite_dandelion"
+  }
+}

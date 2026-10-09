@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "netherite_bars",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:netherite_bars",
+    "count": 16
+  }
+}

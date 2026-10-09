@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zings_ores_and_tiers:block/glossy_iron",
+    "up": "zings_ores_and_tiers:block/glossy_iron",
+    "north": "zings_ores_and_tiers:block/glossy_iron",
+    "east": "zings_ores_and_tiers:block/glossy_iron",
+    "south": "zings_ores_and_tiers:block/glossy_iron",
+    "west": "zings_ores_and_tiers:block/glossy_iron",
+    "particle": "zings_ores_and_tiers:block/glossy_iron"
+  }
+}

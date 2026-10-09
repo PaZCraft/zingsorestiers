@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "glossy_ingot",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:bolted_gold"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:glossy_ingot_gold",
+    "count": 9
+  }
+}

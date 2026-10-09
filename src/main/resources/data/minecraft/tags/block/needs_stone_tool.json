@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:andesite_copper_ore",
+    "zings_ores_and_tiers:tuff_coal_ore",
+    "zings_ores_and_tiers:diorite_copper_ore",
+    "zings_ores_and_tiers:granite_iron_ore",
+    "zings_ores_and_tiers:resin_ore",
+    "zings_ores_and_tiers:deepslate_mystery_ore",
+    "zings_ores_and_tiers:granite_coal_ore",
+    "zings_ores_and_tiers:tuff_copper_ore",
+    "zings_ores_and_tiers:andesite_coal_ore",
+    "zings_ores_and_tiers:diorite_iron_ore",
+    "zings_ores_and_tiers:sandstone_iron_ore",
+    "zings_ores_and_tiers:mystery_ore",
+    "zings_ores_and_tiers:andesite_iron_ore",
+    "zings_ores_and_tiers:granite_copper_ore",
+    "zings_ores_and_tiers:diorite_coal_ore",
+    "zings_ores_and_tiers:sandstone_coal_ore",
+    "zings_ores_and_tiers:dripstone_copper_ore",
+    "zings_ores_and_tiers:tuff_iron_ore"
+  ]
+}

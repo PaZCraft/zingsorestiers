@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "netherite_bulb",
+  "category": "redstone",
+  "pattern": [
+    " a ",
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": "minecraft:netherite_block",
+    "b": "minecraft:blaze_rod",
+    "c": "minecraft:redstone"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:netherite_bulb",
+    "count": 4
+  }
+}

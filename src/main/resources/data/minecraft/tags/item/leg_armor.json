@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:quartz_armor_leggings",
+    "zings_ores_and_tiers:prismarine_leggings",
+    "zings_ores_and_tiers:amethyst_armor_leggings",
+    "zings_ores_and_tiers:redstone_armor_leggings",
+    "zings_ores_and_tiers:emerald_armor_leggings",
+    "zings_ores_and_tiers:coal_armor_leggings",
+    "zings_ores_and_tiers:lapis_lazuli_armor_leggings",
+    "zings_ores_and_tiers:resin_armor_leggings"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "iron_grate",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "zings_ores_and_tiers:glossy_ingot_iron"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:iron_grate",
+    "count": 4
+  }
+}

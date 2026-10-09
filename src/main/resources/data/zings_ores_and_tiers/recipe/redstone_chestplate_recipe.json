@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "zings_ores_and_tiers:redstone_upgrade",
+  "base": "minecraft:iron_chestplate",
+  "addition": "minecraft:redstone",
+  "result": {
+    "id": "zings_ores_and_tiers:redstone_armor_chestplate"
+  }
+}

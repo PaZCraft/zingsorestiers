@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rough_ingot",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:tough_iron"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:rough_ingot_iron",
+    "count": 9
+  }
+}

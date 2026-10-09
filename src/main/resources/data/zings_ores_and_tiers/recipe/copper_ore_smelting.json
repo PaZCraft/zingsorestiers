@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": "#zings_ores_and_tiers:copper_ores",
+  "result": {
+    "id": "minecraft:copper_ingot"
+  }
+}

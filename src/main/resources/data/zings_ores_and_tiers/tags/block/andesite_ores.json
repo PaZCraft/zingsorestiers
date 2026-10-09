@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:andesite_resin_ore",
+    "zings_ores_and_tiers:andesite_redstone_ore",
+    "zings_ores_and_tiers:andesite_iron_ore",
+    "zings_ores_and_tiers:andesite_copper_ore",
+    "zings_ores_and_tiers:andesite_amethyst_ore",
+    "zings_ores_and_tiers:andesite_emerald_ore",
+    "zings_ores_and_tiers:andesite_diamond_ore",
+    "zings_ores_and_tiers:andesite_gold_ore",
+    "zings_ores_and_tiers:andesite_lapis_lazuli_ore",
+    "zings_ores_and_tiers:andesite_quartz_ore",
+    "zings_ores_and_tiers:andesite_coal_ore"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "amethyst_helmet",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:amethyst_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shard",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:crystalized_iron"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:shard_iron",
+    "count": 9
+  }
+}

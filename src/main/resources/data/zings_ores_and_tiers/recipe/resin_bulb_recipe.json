@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "resin_bulb",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:creaking_heart",
+    "b": "minecraft:copper_bulb"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:resin_bulb",
+    "count": 1
+  }
+}

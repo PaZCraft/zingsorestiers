@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "resin_brick",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": "#zings_ores_and_tiers:resin_ores",
+  "result": {
+    "id": "minecraft:resin_brick"
+  }
+}

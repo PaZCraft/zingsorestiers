@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "zings_ores_and_tiers:block/cut_netherite",
+    "bottom": "zings_ores_and_tiers:block/cut_netherite",
+    "top": "zings_ores_and_tiers:block/cut_netherite",
+    "side": "zings_ores_and_tiers:block/cut_netherite"
+  }
+}

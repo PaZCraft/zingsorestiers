@@ -1,0 +1,8 @@
+{
+  "parent": "zings_ores_and_tiers:custom/vanilla_torch_model",
+  "textures": {
+    "all": "zings_ores_and_tiers:block/crimson_netherite_torch",
+    "particle": "zings_ores_and_tiers:block/crimson_netherite_torch",
+    "0": "zings_ores_and_tiers:block/crimson_netherite_torch"
+  }
+}

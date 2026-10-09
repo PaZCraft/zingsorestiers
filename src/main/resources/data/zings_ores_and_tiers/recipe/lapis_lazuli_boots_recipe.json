@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "zings_ores_and_tiers:lapis_lazuli_upgrade",
+  "base": "zings_ores_and_tiers:emerald_armor_boots",
+  "addition": "minecraft:lapis_lazuli",
+  "result": {
+    "id": "zings_ores_and_tiers:lapis_lazuli_armor_boots"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bucket_of_coal",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "minecraft:coal",
+    "b": "minecraft:bucket"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:bucket_of_coal",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "zings_ores_and_tiers:prismarine"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "zings_ores_and_tiers:prismarine"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "zing_book_volume_six",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    " b"
+  ],
+  "key": {
+    "a": "minecraft:book",
+    "b": "#zings_ores_and_tiers:stone_ores"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:zing_book_volume_six",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:granite_diamond_ore",
+    "zings_ores_and_tiers:obsidian_diamond_ore",
+    "minecraft:deepslate_diamond_ore",
+    "zings_ores_and_tiers:sandstone_diamond_ore",
+    "zings_ores_and_tiers:andesite_diamond_ore",
+    "zings_ores_and_tiers:diorite_diamond_ore",
+    "minecraft:diamond_ore",
+    "zings_ores_and_tiers:tuff_diamond_ore"
+  ]
+}

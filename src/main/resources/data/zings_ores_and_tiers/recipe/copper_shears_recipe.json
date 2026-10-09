@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "copper_shears",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "a "
+  ],
+  "key": {
+    "a": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:copper_shears",
+    "count": 1
+  }
+}

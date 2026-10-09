@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "netherite_ingot",
+  "category": "misc",
+  "experience": 1.5,
+  "cookingtime": 206,
+  "ingredient": "zings_ores_and_tiers:raw_netherite",
+  "result": {
+    "id": "minecraft:netherite_ingot"
+  }
+}

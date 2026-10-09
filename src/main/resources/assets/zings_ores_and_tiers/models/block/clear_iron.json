@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zings_ores_and_tiers:block/clear_iron",
+    "up": "zings_ores_and_tiers:block/clear_iron",
+    "north": "zings_ores_and_tiers:block/clear_iron",
+    "east": "zings_ores_and_tiers:block/clear_iron",
+    "south": "zings_ores_and_tiers:block/clear_iron",
+    "west": "zings_ores_and_tiers:block/clear_iron",
+    "particle": "zings_ores_and_tiers:block/clear_iron"
+  }
+}

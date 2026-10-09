@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "name_tag",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "b "
+  ],
+  "key": {
+    "a": "minecraft:copper_nugget",
+    "b": "minecraft:paper"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:copper_name_tag",
+    "count": 1
+  }
+}

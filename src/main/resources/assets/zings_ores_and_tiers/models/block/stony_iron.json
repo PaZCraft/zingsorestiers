@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zings_ores_and_tiers:block/stony_iron",
+    "up": "zings_ores_and_tiers:block/stony_iron",
+    "north": "zings_ores_and_tiers:block/stony_iron",
+    "east": "zings_ores_and_tiers:block/stony_iron",
+    "south": "zings_ores_and_tiers:block/stony_iron",
+    "west": "zings_ores_and_tiers:block/stony_iron",
+    "particle": "zings_ores_and_tiers:block/stony_iron"
+  }
+}

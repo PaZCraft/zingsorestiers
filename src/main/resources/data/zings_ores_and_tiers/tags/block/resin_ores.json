@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:tuff_resin_ore",
+    "zings_ores_and_tiers:pale_moss_resin_ore",
+    "zings_ores_and_tiers:andesite_resin_ore",
+    "zings_ores_and_tiers:diorite_resin_ore",
+    "zings_ores_and_tiers:deepslate_resin_ore",
+    "zings_ores_and_tiers:resin_ore",
+    "zings_ores_and_tiers:dirt_resin_ore",
+    "zings_ores_and_tiers:granite_resin_ore"
+  ]
+}

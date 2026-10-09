@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:prismarine_hoe",
+    "zings_ores_and_tiers:lapis_lazuli_hoe",
+    "zings_ores_and_tiers:quartz_hoe",
+    "zings_ores_and_tiers:coal_hoe",
+    "zings_ores_and_tiers:amethyst_hoe",
+    "zings_ores_and_tiers:resin_hoe",
+    "zings_ores_and_tiers:emerald_hoe",
+    "zings_ores_and_tiers:redstone_hoe"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "zings_ores_and_tiers:block/cut_netherite_slab"
+    },
+    "type=top": {
+      "model": "zings_ores_and_tiers:block/cut_netherite_slab_top"
+    },
+    "type=double": {
+      "model": "zings_ores_and_tiers:block/cut_netherite_slab_full"
+    }
+  }
+}

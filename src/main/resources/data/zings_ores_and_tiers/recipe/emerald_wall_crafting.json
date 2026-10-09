@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emerald_wall",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:emerald_block"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:emerald_wall",
+    "count": 6
+  }
+}

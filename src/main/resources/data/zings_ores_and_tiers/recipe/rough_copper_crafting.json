@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rough",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "zings_ores_and_tiers:rough_ingot_copper"
+  },
+  "result": {
+    "id": "zings_ores_and_tiers:tough_copper",
+    "count": 1
+  }
+}

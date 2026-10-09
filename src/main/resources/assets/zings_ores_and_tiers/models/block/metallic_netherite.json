@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zings_ores_and_tiers:block/metallic_netherite",
+    "up": "zings_ores_and_tiers:block/metallic_netherite",
+    "north": "zings_ores_and_tiers:block/metallic_netherite",
+    "east": "zings_ores_and_tiers:block/metallic_netherite",
+    "south": "zings_ores_and_tiers:block/metallic_netherite",
+    "west": "zings_ores_and_tiers:block/metallic_netherite",
+    "particle": "zings_ores_and_tiers:block/metallic_netherite"
+  }
+}

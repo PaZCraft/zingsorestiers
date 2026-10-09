@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:granite_emerald_ore",
+    "zings_ores_and_tiers:andesite_emerald_ore",
+    "zings_ores_and_tiers:sandstone_emerald_ore",
+    "minecraft:emerald_ore",
+    "zings_ores_and_tiers:diorite_emerald_ore",
+    "zings_ores_and_tiers:tuff_emerald_ore",
+    "minecraft:deepslate_emerald_ore"
+  ]
+}

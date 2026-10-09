@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "pane": "zings_ores_and_tiers:block/golden_bars",
+    "particle": "zings_ores_and_tiers:block/golden_bars"
+  }
+}

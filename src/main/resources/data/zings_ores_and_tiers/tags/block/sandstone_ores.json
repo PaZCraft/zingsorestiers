@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "zings_ores_and_tiers:sandstone_iron_ore",
+    "zings_ores_and_tiers:sandstone_gold_ore",
+    "zings_ores_and_tiers:sandstone_lapis_lazuli_ore",
+    "zings_ores_and_tiers:sandstone_diamond_ore",
+    "zings_ores_and_tiers:sandstone_redstone_ore",
+    "zings_ores_and_tiers:sandstone_emerald_ore",
+    "zings_ores_and_tiers:sandstone_coal_ore"
+  ]
+}
