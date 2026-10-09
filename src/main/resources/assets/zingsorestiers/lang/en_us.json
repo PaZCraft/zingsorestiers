@@ -1,0 +1,13 @@
+{
+  "itemGroup.zingsorestiers": "Example Mod Tab",
+  "block.zingsorestiers.example_block": "Example Block",
+  "item.zingsorestiers.example_item": "Example Item",
+
+  "zingsorestiers.configuration.title": "ZiNG's Ores & Tiers Configs",
+  "zingsorestiers.configuration.section.zingsorestiers.common.toml": "ZiNG's Ores & Tiers Configs",
+  "zingsorestiers.configuration.section.zingsorestiers.common.toml.title": "ZiNG's Ores & Tiers Configs",
+  "zingsorestiers.configuration.items": "Item List",
+  "zingsorestiers.configuration.logDirtBlock": "Log Dirt Block",
+  "zingsorestiers.configuration.magicNumberIntroduction": "Magic Number Text",
+  "zingsorestiers.configuration.magicNumber": "Magic Number"
+}
