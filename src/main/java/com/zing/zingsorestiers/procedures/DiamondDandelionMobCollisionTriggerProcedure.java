@@ -22,7 +22,7 @@ public class DiamondDandelionMobCollisionTriggerProcedure {
 				double _power = true ? (_speed * (_dist * 0.5d)) : _speed;
 				net.minecraft.world.phys.Vec3 _motion = _backDir.scale(_power);
 				_ent.setDeltaMovement(_motion);
-				_ent.hurtMarked = true;
+				
 				if (_ent instanceof net.minecraft.server.level.ServerPlayer _player) {
 					_player.connection.send(new net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket(_ent));
 				}
@@ -56,7 +56,7 @@ public class DiamondDandelionMobCollisionTriggerProcedure {
 				double _power = true ? (_speed * (_dist * 0.5d)) : _speed;
 				net.minecraft.world.phys.Vec3 _motion = _backDir.scale(_power);
 				_ent.setDeltaMovement(_motion);
-				_ent.hurtMarked = true;
+				
 				if (_ent instanceof net.minecraft.server.level.ServerPlayer _player) {
 					_player.connection.send(new net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket(_ent));
 				}

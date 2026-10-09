@@ -37,7 +37,7 @@ public class NetheriteWaterBucketRightclickedOnBlockProcedure {
 		}
 		if (entity instanceof Player _player) {
 			ItemStack _stktoremove = new ItemStack(ZingsOresAndTiersModItems.NETHERITE_WATER_BUCKET.get());
-			_player.getInventory().clearOrCountMatchingItems(p -> _stktoremove.getItem() == p.getItem(), 1, _player.inventoryMenu.getCraftSlots());
+			_player.getInventory().clearOrCountMatchingItems(p -> _stktoremove.getItem() == p.getItem(), false, 1, _player.inventoryMenu.getCraftSlots());
 		}
 	}
 

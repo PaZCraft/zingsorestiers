@@ -6,6 +6,6 @@ import net.minecraft.world.level.block.Block;
 
 public class DeepslateMysteryOreBlock extends Block {
 	public DeepslateMysteryOreBlock(BlockBehaviour.Properties properties) {
-		super(properties.sound(SoundType.DEEPSLATE).strength(1.15f, 11.5f).requiresCorrectToolForDrops().postProcess((bs, br, bp) -> bp).emissiveRendering((bs, br, bp) -> true));
+		super(properties.sound(SoundType.DEEPSLATE).strength(1.15f, 11.5f).requiresCorrectToolForDrops().postProcess((bs, br, bp) -> bp).emissiveRendering(state -> true));
 	}
 }

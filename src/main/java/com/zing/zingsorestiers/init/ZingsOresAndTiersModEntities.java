@@ -16,12 +16,12 @@ import net.minecraft.core.registries.Registries;
 
 import com.zing.zingsorestiers.entity.NetheriteGolemEntity;
 import com.zing.zingsorestiers.entity.GoldenGolemEntity;
+import com.zing.zingsorestiers.ZiNGsOresTiers;
 import com.zing.zingsorestiers.entity.CoalFireballEntity;
-import com.zing.zingsorestiers.ZingsOresAndTiersMod;
 
 @EventBusSubscriber
 public class ZingsOresAndTiersModEntities {
-	public static final DeferredRegister<EntityType<?>> REGISTRY = DeferredRegister.create(Registries.ENTITY_TYPE, ZingsOresAndTiersMod.MODID);
+	public static final DeferredRegister<EntityType<?>> REGISTRY = DeferredRegister.create(Registries.ENTITY_TYPE, ZiNGsOresTiers.MODID);
 	public static final DeferredHolder<EntityType<?>, EntityType<GoldenGolemEntity>> GOLDEN_GOLEM = register("golden_golem",
 			EntityType.Builder.<GoldenGolemEntity>of(GoldenGolemEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(24).setUpdateInterval(3)
 
@@ -40,7 +40,7 @@ public class ZingsOresAndTiersModEntities {
 	// Start of user code block custom entities
 	// End of user code block custom entities
 	private static <T extends Entity> DeferredHolder<EntityType<?>, EntityType<T>> register(String registryname, EntityType.Builder<T> entityTypeBuilder) {
-		return REGISTRY.register(registryname, () -> (EntityType<T>) entityTypeBuilder.build(ResourceKey.create(Registries.ENTITY_TYPE, Identifier.fromNamespaceAndPath(ZingsOresAndTiersMod.MODID, registryname))));
+		return REGISTRY.register(registryname, () -> (EntityType<T>) entityTypeBuilder.build(ResourceKey.create(Registries.ENTITY_TYPE, Identifier.fromNamespaceAndPath(ZiNGsOresTiers.MODID, registryname))));
 	}
 
 	@SubscribeEvent

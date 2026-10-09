@@ -10,13 +10,12 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.DoubleHighBlockItem;
 import net.minecraft.world.item.BlockItem;
 
+import com.zing.zingsorestiers.ZiNGsOresTiers;
 import com.zing.zingsorestiers.item.*;
-import com.zing.zingsorestiers.ZingsOresAndTiersMod;
-
 import java.util.function.Function;
 
 public class ZingsOresAndTiersModItems {
-	public static final DeferredRegister.Items REGISTRY = DeferredRegister.createItems(ZingsOresAndTiersMod.MODID);
+	public static final DeferredRegister.Items REGISTRY = DeferredRegister.createItems(ZiNGsOresTiers.MODID);
 	public static final DeferredItem<Item> REDSTONE_ARMOR_HELMET;
 	public static final DeferredItem<Item> REDSTONE_ARMOR_CHESTPLATE;
 	public static final DeferredItem<Item> REDSTONE_ARMOR_LEGGINGS;

@@ -14,7 +14,7 @@ import javax.annotation.Nullable;
 
 public class CrimsonNetheriteBulbLitBlock extends Block {
 	public CrimsonNetheriteBulbLitBlock(BlockBehaviour.Properties properties) {
-		super(properties.sound(SoundType.COPPER_BULB).strength(1f, 10f).lightLevel(blockstate -> 15).postProcess((bs, br, bp) -> bp).emissiveRendering((bs, br, bp) -> true));
+		super(properties.sound(SoundType.COPPER_BULB).strength(1f, 10f).lightLevel(blockstate -> 15).postProcess((bs, br, bp) -> bp).emissiveRendering((bs) -> true));
 	}
 
 	@Override

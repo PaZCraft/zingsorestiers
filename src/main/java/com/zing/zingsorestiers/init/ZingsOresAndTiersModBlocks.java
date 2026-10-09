@@ -9,13 +9,12 @@ import net.neoforged.neoforge.registries.DeferredBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.Block;
 
+import com.zing.zingsorestiers.ZiNGsOresTiers;
 import com.zing.zingsorestiers.block.*;
-import com.zing.zingsorestiers.ZingsOresAndTiersMod;
-
 import java.util.function.Function;
 
 public class ZingsOresAndTiersModBlocks {
-	public static final DeferredRegister.Blocks REGISTRY = DeferredRegister.createBlocks(ZingsOresAndTiersMod.MODID);
+	public static final DeferredRegister.Blocks REGISTRY = DeferredRegister.createBlocks(ZiNGsOresTiers.MODID);
 	public static final DeferredBlock<Block> RESIN_BULB_LIT;
 	public static final DeferredBlock<Block> RESIN_BULB;
 	public static final DeferredBlock<Block> RESIN_LANTERN;

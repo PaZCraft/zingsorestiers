@@ -14,7 +14,13 @@ public class NetheriteLanternBlock extends Block {
 	private static final VoxelShape SHAPE = Shapes.or(box(5, 0, 5, 11, 7, 11), box(6, 7, 6, 10, 9, 10));
 
 	public NetheriteLanternBlock(BlockBehaviour.Properties properties) {
-		super(properties.sound(SoundType.LANTERN).strength(1f, 10f).lightLevel(blockstate -> 15).noOcclusion().postProcess((bs, br, bp) -> bp).emissiveRendering((bs, br, bp) -> true).isRedstoneConductor((bs, br, bp) -> false));
+		super(properties.sound(SoundType.LANTERN)
+			.strength(1f, 10f)
+			.lightLevel(blockstate -> 15)
+			.noOcclusion()
+			.postProcess((bs, br, bp) -> bp)
+			.emissiveRendering(state -> true)
+			.isRedstoneConductor((state, level, pos) -> false));
 	}
 
 	@Override

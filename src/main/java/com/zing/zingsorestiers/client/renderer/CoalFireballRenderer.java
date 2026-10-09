@@ -12,6 +12,9 @@ import com.zing.zingsorestiers.entity.CoalFireballEntity;
 import com.zing.zingsorestiers.client.model.Modelcoal_fireball;
 
 import com.mojang.math.Axis;
+
+import org.joml.Matrix4fc;
+
 import com.mojang.blaze3d.vertex.PoseStack;
 
 public class CoalFireballRenderer extends EntityRenderer<CoalFireballEntity, LivingEntityRenderState> {
@@ -26,10 +29,10 @@ public class CoalFireballRenderer extends EntityRenderer<CoalFireballEntity, Liv
 	@Override
 	public void submit(LivingEntityRenderState state, PoseStack poseStack, SubmitNodeCollector submitNodeCollector, CameraRenderState camera) {
 		poseStack.pushPose();
-		poseStack.mulPose(Axis.YP.rotationDegrees(state.yRot - 90));
-		poseStack.mulPose(Axis.ZP.rotationDegrees(90 + state.xRot));
+		poseStack.mulPose((Matrix4fc) Axis.YP.rotationDegrees(state.yRot - 90));
+		poseStack.mulPose((Matrix4fc) Axis.ZP.rotationDegrees(90 + state.xRot));
 		model.setupAnim(state);
-		submitNodeCollector.submitModel(this.model, state, poseStack, texture, state.lightCoords, OverlayTexture.NO_OVERLAY, state.outlineColor, null);
+		submitNodeCollector.submitModel(this.model, state, poseStack, texture, state.lightCoords, OverlayTexture.NO_OVERLAY, state.outlineColor);
 		poseStack.popPose();
 		super.submit(state, poseStack, submitNodeCollector, camera);
 	}

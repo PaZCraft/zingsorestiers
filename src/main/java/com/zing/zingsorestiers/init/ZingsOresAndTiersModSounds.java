@@ -10,10 +10,10 @@ import net.minecraft.sounds.SoundEvent;
 import net.minecraft.resources.Identifier;
 import net.minecraft.core.registries.Registries;
 
-import com.zing.zingsorestiers.ZingsOresAndTiersMod;
+import com.zing.zingsorestiers.ZiNGsOresTiers;
 
 public class ZingsOresAndTiersModSounds {
-	public static final DeferredRegister<SoundEvent> REGISTRY = DeferredRegister.create(Registries.SOUND_EVENT, ZingsOresAndTiersMod.MODID);
+	public static final DeferredRegister<SoundEvent> REGISTRY = DeferredRegister.create(Registries.SOUND_EVENT, ZiNGsOresTiers.MODID);
 	public static final DeferredHolder<SoundEvent, SoundEvent> ITEM_ARMOR_EQUIP_REDSTONE = REGISTRY.register("item.armor.equip_redstone",
 			() -> SoundEvent.createVariableRangeEvent(Identifier.fromNamespaceAndPath("zings_ores_and_tiers", "item.armor.equip_redstone")));
 	public static final DeferredHolder<SoundEvent, SoundEvent> ITEM_ARMOR_EQUIP_QUARTZ = REGISTRY.register("item.armor.equip_quartz",

@@ -15,11 +15,11 @@ import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.network.chat.Component;
 import net.minecraft.core.registries.Registries;
 
-import com.zing.zingsorestiers.ZingsOresAndTiersMod;
+import com.zing.zingsorestiers.ZiNGsOresTiers;
 
 @EventBusSubscriber
 public class ZingsOresAndTiersModTabs {
-	public static final DeferredRegister<CreativeModeTab> REGISTRY = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, ZingsOresAndTiersMod.MODID);
+	public static final DeferredRegister<CreativeModeTab> REGISTRY = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, ZiNGsOresTiers.MODID);
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> ORES_AND_TIERS = REGISTRY.register("ores_and_tiers",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.zings_ores_and_tiers.ores_and_tiers")).icon(() -> new ItemStack(ZingsOresAndTiersModItems.ORES_AND_TIERS_ICON.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(ZingsOresAndTiersModItems.REDSTONE_ARMOR_HELMET.get());
