@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.init;
+package com.zing.zingsorestiers.init;
 
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredHolder;
@@ -14,10 +14,10 @@ import net.minecraft.resources.ResourceKey;
 import net.minecraft.resources.Identifier;
 import net.minecraft.core.registries.Registries;
 
-import net.mcreator.zingsoresandtiers.entity.NetheriteGolemEntity;
-import net.mcreator.zingsoresandtiers.entity.GoldenGolemEntity;
-import net.mcreator.zingsoresandtiers.entity.CoalFireballEntity;
-import net.mcreator.zingsoresandtiers.ZingsOresAndTiersMod;
+import com.zing.zingsorestiers.entity.NetheriteGolemEntity;
+import com.zing.zingsorestiers.entity.GoldenGolemEntity;
+import com.zing.zingsorestiers.entity.CoalFireballEntity;
+import com.zing.zingsorestiers.ZingsOresAndTiersMod;
 
 @EventBusSubscriber
 public class ZingsOresAndTiersModEntities {

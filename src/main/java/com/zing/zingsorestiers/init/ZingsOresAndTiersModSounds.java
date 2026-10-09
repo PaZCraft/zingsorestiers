@@ -1,7 +1,7 @@
 /*
  *    MCreator note: This file will be REGENERATED on each build.
  */
-package net.mcreator.zingsoresandtiers.init;
+package com.zing.zingsorestiers.init;
 
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredHolder;
@@ -10,7 +10,7 @@ import net.minecraft.sounds.SoundEvent;
 import net.minecraft.resources.Identifier;
 import net.minecraft.core.registries.Registries;
 
-import net.mcreator.zingsoresandtiers.ZingsOresAndTiersMod;
+import com.zing.zingsorestiers.ZingsOresAndTiersMod;
 
 public class ZingsOresAndTiersModSounds {
 	public static final DeferredRegister<SoundEvent> REGISTRY = DeferredRegister.create(Registries.SOUND_EVENT, ZingsOresAndTiersMod.MODID);

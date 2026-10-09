@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.entity;
+package com.zing.zingsorestiers.entity;
 
 import net.neoforged.neoforge.registries.RegisterEvent;
 import net.neoforged.fml.common.EventBusSubscriber;

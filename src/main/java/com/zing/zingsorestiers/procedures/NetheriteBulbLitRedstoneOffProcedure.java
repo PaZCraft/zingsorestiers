@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.procedures;
+package com.zing.zingsorestiers.procedures;
 
 import net.minecraft.world.level.storage.TagValueInput;
 import net.minecraft.world.level.block.state.properties.Property;
@@ -9,7 +9,7 @@ import net.minecraft.util.ProblemReporter;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.core.BlockPos;
 
-import net.mcreator.zingsoresandtiers.init.ZingsOresAndTiersModBlocks;
+import com.zing.zingsorestiers.init.ZingsOresAndTiersModBlocks;
 
 public class NetheriteBulbLitRedstoneOffProcedure {
 	public static void execute(LevelAccessor world, double x, double y, double z) {

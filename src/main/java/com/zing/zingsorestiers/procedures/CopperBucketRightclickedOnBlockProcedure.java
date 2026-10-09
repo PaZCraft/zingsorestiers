@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.procedures;
+package com.zing.zingsorestiers.procedures;
 
 import net.neoforged.neoforge.transfer.transaction.Transaction;
 import net.neoforged.neoforge.transfer.item.ItemResource;
@@ -20,7 +20,7 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.core.BlockPos;
 
-import net.mcreator.zingsoresandtiers.init.ZingsOresAndTiersModItems;
+import com.zing.zingsorestiers.init.ZingsOresAndTiersModItems;
 
 public class CopperBucketRightclickedOnBlockProcedure {
 	public static void execute(LevelAccessor world, double x, double y, double z, Entity entity, ItemStack itemstack) {

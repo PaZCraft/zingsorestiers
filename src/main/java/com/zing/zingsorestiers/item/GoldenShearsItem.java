@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.item;
+package com.zing.zingsorestiers.item;
 
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.item.ShearsItem;

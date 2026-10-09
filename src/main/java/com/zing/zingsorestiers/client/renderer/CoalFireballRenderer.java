@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.client.renderer;
+package com.zing.zingsorestiers.client.renderer;
 
 import net.minecraft.resources.Identifier;
 import net.minecraft.client.renderer.texture.OverlayTexture;
@@ -8,8 +8,8 @@ import net.minecraft.client.renderer.entity.EntityRendererProvider;
 import net.minecraft.client.renderer.entity.EntityRenderer;
 import net.minecraft.client.renderer.SubmitNodeCollector;
 
-import net.mcreator.zingsoresandtiers.entity.CoalFireballEntity;
-import net.mcreator.zingsoresandtiers.client.model.Modelcoal_fireball;
+import com.zing.zingsorestiers.entity.CoalFireballEntity;
+import com.zing.zingsorestiers.client.model.Modelcoal_fireball;
 
 import com.mojang.math.Axis;
 import com.mojang.blaze3d.vertex.PoseStack;

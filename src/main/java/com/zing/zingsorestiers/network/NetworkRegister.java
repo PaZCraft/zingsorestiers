@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.network;
+package com.zing.zingsorestiers.network;
 
 import net.neoforged.neoforge.network.registration.PayloadRegistrar;
 import net.neoforged.neoforge.network.event.RegisterPayloadHandlersEvent;

@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.client;
+package com.zing.zingsorestiers.client;
 
 import net.neoforged.neoforge.client.event.ViewportEvent;
 import net.neoforged.neoforge.client.event.ClientTickEvent;

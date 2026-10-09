@@ -1,11 +1,11 @@
-package net.mcreator.zingsoresandtiers.item;
+package com.zing.zingsorestiers.item;
 
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.InteractionResult;
 
-import net.mcreator.zingsoresandtiers.procedures.GoldenBucketRightclickedOnBlockProcedure;
+import com.zing.zingsorestiers.procedures.GoldenBucketRightclickedOnBlockProcedure;
 
 public class GoldenBucketItem extends Item {
 	public GoldenBucketItem(Item.Properties properties) {

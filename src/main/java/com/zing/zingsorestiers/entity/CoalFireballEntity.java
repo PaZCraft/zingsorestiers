@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.entity;
+package com.zing.zingsorestiers.entity;
 
 import net.minecraft.world.phys.Vec3;
 import net.minecraft.world.phys.EntityHitResult;
@@ -17,10 +17,10 @@ import net.minecraft.resources.Identifier;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.core.registries.BuiltInRegistries;
 
-import net.mcreator.zingsoresandtiers.procedures.CoalFireballWhileProjectileFlyingTickProcedure;
-import net.mcreator.zingsoresandtiers.procedures.CoalFireballProjectileHitsLivingEntityProcedure;
-import net.mcreator.zingsoresandtiers.init.ZingsOresAndTiersModItems;
-import net.mcreator.zingsoresandtiers.init.ZingsOresAndTiersModEntities;
+import com.zing.zingsorestiers.procedures.CoalFireballWhileProjectileFlyingTickProcedure;
+import com.zing.zingsorestiers.procedures.CoalFireballProjectileHitsLivingEntityProcedure;
+import com.zing.zingsorestiers.init.ZingsOresAndTiersModItems;
+import com.zing.zingsorestiers.init.ZingsOresAndTiersModEntities;
 
 import javax.annotation.Nullable;
 

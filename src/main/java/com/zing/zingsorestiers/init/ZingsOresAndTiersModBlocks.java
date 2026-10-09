@@ -1,7 +1,7 @@
 /*
  *    MCreator note: This file will be REGENERATED on each build.
  */
-package net.mcreator.zingsoresandtiers.init;
+package com.zing.zingsorestiers.init;
 
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredBlock;
@@ -9,8 +9,8 @@ import net.neoforged.neoforge.registries.DeferredBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.Block;
 
-import net.mcreator.zingsoresandtiers.block.*;
-import net.mcreator.zingsoresandtiers.ZingsOresAndTiersMod;
+import com.zing.zingsorestiers.block.*;
+import com.zing.zingsorestiers.ZingsOresAndTiersMod;
 
 import java.util.function.Function;
 

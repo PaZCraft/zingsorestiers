@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.ai;
+package com.zing.zingsorestiers.ai;
 
 import net.minecraft.world.phys.Vec3;
 import net.minecraft.world.entity.ai.goal.Goal;

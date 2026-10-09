@@ -1,11 +1,11 @@
-package net.mcreator.zingsoresandtiers.item;
+package com.zing.zingsorestiers.item;
 
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.InteractionResult;
 
-import net.mcreator.zingsoresandtiers.procedures.GoldenLavaBucketRightclickedOnBlockProcedure;
+import com.zing.zingsorestiers.procedures.GoldenLavaBucketRightclickedOnBlockProcedure;
 
 public class GoldenLavaBucketItem extends Item {
 	public GoldenLavaBucketItem(Item.Properties properties) {

@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.item;
+package com.zing.zingsorestiers.item;
 
 import net.minecraft.world.level.Level;
 import net.minecraft.world.item.Rarity;
@@ -13,7 +13,7 @@ import net.minecraft.world.InteractionHand;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.server.level.ServerLevel;
 
-import net.mcreator.zingsoresandtiers.entity.CoalFireballEntity;
+import com.zing.zingsorestiers.entity.CoalFireballEntity;
 
 public class BurningCoalItem extends Item {
 	public BurningCoalItem(Item.Properties properties) {

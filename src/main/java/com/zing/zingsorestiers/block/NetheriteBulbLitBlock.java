@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.block;
+package com.zing.zingsorestiers.block;
 
 import net.minecraft.world.level.redstone.Orientation;
 import net.minecraft.world.level.block.state.BlockState;
@@ -8,7 +8,7 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.Level;
 import net.minecraft.core.BlockPos;
 
-import net.mcreator.zingsoresandtiers.procedures.NetheriteBulbLitRedstoneOffProcedure;
+import com.zing.zingsorestiers.procedures.NetheriteBulbLitRedstoneOffProcedure;
 
 import javax.annotation.Nullable;
 

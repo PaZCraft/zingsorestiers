@@ -1,16 +1,16 @@
 /*
  *    MCreator note: This file will be REGENERATED on each build.
  */
-package net.mcreator.zingsoresandtiers.init;
+package com.zing.zingsorestiers.init;
 
 import net.neoforged.neoforge.client.event.EntityRenderersEvent;
 import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.api.distmarker.Dist;
 
-import net.mcreator.zingsoresandtiers.client.model.Modelnetherite_golem_entity_model;
-import net.mcreator.zingsoresandtiers.client.model.Modelgolden_golem_entity_model;
-import net.mcreator.zingsoresandtiers.client.model.Modelcoal_fireball;
+import com.zing.zingsorestiers.client.model.Modelnetherite_golem_entity_model;
+import com.zing.zingsorestiers.client.model.Modelgolden_golem_entity_model;
+import com.zing.zingsorestiers.client.model.Modelcoal_fireball;
 
 @EventBusSubscriber(Dist.CLIENT)
 public class ZingsOresAndTiersModModels {

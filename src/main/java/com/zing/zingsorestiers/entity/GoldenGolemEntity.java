@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.entity;
+package com.zing.zingsorestiers.entity;
 
 import net.neoforged.neoforge.event.entity.RegisterSpawnPlacementsEvent;
 import net.neoforged.neoforge.common.NeoForgeMod;

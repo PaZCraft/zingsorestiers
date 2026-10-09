@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.client.renderer;
+package com.zing.zingsorestiers.client.renderer;
 
 import net.minecraft.resources.Identifier;
 import net.minecraft.client.renderer.entity.state.LivingEntityRenderState;
@@ -8,9 +8,9 @@ import net.minecraft.client.model.geom.ModelPart;
 import net.minecraft.client.animation.KeyframeAnimation;
 import net.minecraft.client.animation.AnimationDefinition;
 
-import net.mcreator.zingsoresandtiers.entity.GoldenGolemEntity;
-import net.mcreator.zingsoresandtiers.client.model.animations.golden_golem_entity_modelAnimation;
-import net.mcreator.zingsoresandtiers.client.model.Modelgolden_golem_entity_model;
+import com.zing.zingsorestiers.entity.GoldenGolemEntity;
+import com.zing.zingsorestiers.client.model.animations.golden_golem_entity_modelAnimation;
+import com.zing.zingsorestiers.client.model.Modelgolden_golem_entity_model;
 
 import java.util.Map;
 

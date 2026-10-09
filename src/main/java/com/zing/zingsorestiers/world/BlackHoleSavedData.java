@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.world;
+package com.zing.zingsorestiers.world;
 
 import net.minecraft.world.level.saveddata.SavedDataType;
 import net.minecraft.world.level.saveddata.SavedData;

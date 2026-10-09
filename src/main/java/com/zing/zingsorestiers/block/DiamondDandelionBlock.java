@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.block;
+package com.zing.zingsorestiers.block;
 
 import net.minecraft.world.level.material.PushReaction;
 import net.minecraft.world.level.material.MapColor;
@@ -14,7 +14,7 @@ import net.minecraft.world.effect.MobEffects;
 import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 
-import net.mcreator.zingsoresandtiers.procedures.DiamondDandelionMobCollisionTriggerProcedure;
+import com.zing.zingsorestiers.procedures.DiamondDandelionMobCollisionTriggerProcedure;
 
 public class DiamondDandelionBlock extends FlowerBlock {
 	public DiamondDandelionBlock(BlockBehaviour.Properties properties) {

@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.block;
+package com.zing.zingsorestiers.block;
 
 import net.minecraft.world.level.material.PushReaction;
 import net.minecraft.world.level.block.state.properties.BlockSetType;

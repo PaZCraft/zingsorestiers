@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.client;
+package com.zing.zingsorestiers.client;
 
 import net.minecraft.client.gui.screens.inventory.InventoryScreen;
 import net.minecraft.client.Minecraft;

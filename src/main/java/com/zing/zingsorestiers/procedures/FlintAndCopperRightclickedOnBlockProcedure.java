@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.procedures;
+package com.zing.zingsorestiers.procedures;
 
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.LevelAccessor;

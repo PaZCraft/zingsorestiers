@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.block;
+package com.zing.zingsorestiers.block;
 
 import net.minecraft.world.phys.shapes.VoxelShape;
 import net.minecraft.world.phys.shapes.Shapes;

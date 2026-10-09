@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.init;
+package com.zing.zingsorestiers.init;
 
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredItem;
@@ -10,8 +10,8 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.DoubleHighBlockItem;
 import net.minecraft.world.item.BlockItem;
 
-import net.mcreator.zingsoresandtiers.item.*;
-import net.mcreator.zingsoresandtiers.ZingsOresAndTiersMod;
+import com.zing.zingsorestiers.item.*;
+import com.zing.zingsorestiers.ZingsOresAndTiersMod;
 
 import java.util.function.Function;
 

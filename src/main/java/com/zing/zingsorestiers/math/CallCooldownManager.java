@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.math;
+package com.zing.zingsorestiers.math;
 
 import java.util.concurrent.ConcurrentHashMap;
 

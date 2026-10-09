@@ -1,10 +1,10 @@
-package net.mcreator.zingsoresandtiers.item;
+package com.zing.zingsorestiers.item;
 
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.InteractionResult;
 
-import net.mcreator.zingsoresandtiers.procedures.FlintAndNetheriteRightclickedOnBlockProcedure;
+import com.zing.zingsorestiers.procedures.FlintAndNetheriteRightclickedOnBlockProcedure;
 
 public class FlintAndNetheriteItem extends Item {
 	public FlintAndNetheriteItem(Item.Properties properties) {

@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.item;
+package com.zing.zingsorestiers.item;
 
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;

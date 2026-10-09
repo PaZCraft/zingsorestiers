@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.block;
+package com.zing.zingsorestiers.block;
 
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.BlockBehaviour;
@@ -9,8 +9,8 @@ import net.minecraft.world.entity.Entity;
 import net.minecraft.util.RandomSource;
 import net.minecraft.core.BlockPos;
 
-import net.mcreator.zingsoresandtiers.procedures.BlockOfBurningCoalOnRandomClientDisplayTickProcedure;
-import net.mcreator.zingsoresandtiers.procedures.BlockOfBurningCoalEntityWalksOnTheBlockProcedure;
+import com.zing.zingsorestiers.procedures.BlockOfBurningCoalOnRandomClientDisplayTickProcedure;
+import com.zing.zingsorestiers.procedures.BlockOfBurningCoalEntityWalksOnTheBlockProcedure;
 
 public class BlockOfBurningCoalBlock extends Block {
 	public BlockOfBurningCoalBlock(BlockBehaviour.Properties properties) {

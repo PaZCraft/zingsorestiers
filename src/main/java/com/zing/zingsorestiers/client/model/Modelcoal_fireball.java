@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.client.model;
+package com.zing.zingsorestiers.client.model;
 
 import net.minecraft.resources.Identifier;
 import net.minecraft.client.renderer.entity.state.LivingEntityRenderState;

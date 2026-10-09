@@ -1,10 +1,10 @@
-package net.mcreator.zingsoresandtiers.item;
+package com.zing.zingsorestiers.item;
 
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.InteractionResult;
 
-import net.mcreator.zingsoresandtiers.procedures.CopperLavaBucketRightclickedOnBlockProcedure;
+import com.zing.zingsorestiers.procedures.CopperLavaBucketRightclickedOnBlockProcedure;
 
 public class CopperLavaBucketItem extends Item {
 	public CopperLavaBucketItem(Item.Properties properties) {

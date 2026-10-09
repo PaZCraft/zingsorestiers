@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.client.renderer.item;
+package com.zing.zingsorestiers.client.renderer.item;
 
 import net.neoforged.neoforge.client.extensions.common.RegisterClientExtensionsEvent;
 import net.neoforged.neoforge.client.extensions.common.IClientItemExtensions;
@@ -10,7 +10,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.resources.Identifier;
 import net.minecraft.client.resources.model.EquipmentClientInfo;
 
-import net.mcreator.zingsoresandtiers.init.ZingsOresAndTiersModItems;
+import com.zing.zingsorestiers.init.ZingsOresAndTiersModItems;
 
 @EventBusSubscriber(Dist.CLIENT)
 public class AmethystArmorArmor {

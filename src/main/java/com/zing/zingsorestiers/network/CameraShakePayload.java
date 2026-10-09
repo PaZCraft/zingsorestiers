@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.network;
+package com.zing.zingsorestiers.network;
 
 import net.neoforged.neoforge.network.registration.PayloadRegistrar;
 import net.neoforged.neoforge.network.handling.IPayloadContext;
@@ -12,7 +12,7 @@ import net.minecraft.network.codec.StreamCodec;
 import net.minecraft.network.codec.ByteBufCodecs;
 import net.minecraft.network.FriendlyByteBuf;
 
-import net.mcreator.zingsoresandtiers.client.CameraShakeManager;
+import com.zing.zingsorestiers.client.CameraShakeManager;
 
 @EventBusSubscriber
 public record CameraShakePayload(float power, int durationTicks) implements CustomPacketPayload {

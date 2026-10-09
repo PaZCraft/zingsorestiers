@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.client.renderer;
+package com.zing.zingsorestiers.client.renderer;
 
 import net.neoforged.neoforge.client.event.RenderLivingEvent;
 import net.neoforged.fml.common.EventBusSubscriber;

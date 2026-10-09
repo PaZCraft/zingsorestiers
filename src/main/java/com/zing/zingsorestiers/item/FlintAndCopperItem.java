@@ -1,10 +1,10 @@
-package net.mcreator.zingsoresandtiers.item;
+package com.zing.zingsorestiers.item;
 
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.InteractionResult;
 
-import net.mcreator.zingsoresandtiers.procedures.FlintAndCopperRightclickedOnBlockProcedure;
+import com.zing.zingsorestiers.procedures.FlintAndCopperRightclickedOnBlockProcedure;
 
 public class FlintAndCopperItem extends Item {
 	public FlintAndCopperItem(Item.Properties properties) {

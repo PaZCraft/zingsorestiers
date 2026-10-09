@@ -1,4 +1,4 @@
-package net.mcreator.zingsoresandtiers.client;
+package com.zing.zingsorestiers.client;
 
 import java.util.Random;
 
